@@ -477,7 +477,7 @@ $(document).ready(function () {
     })
 });
 $(document).ready(function () {
-    if ($('#mycontent').attr('href') != 'https://www.templatesilk.com/') {
-        window.location.href = 'https://www.templatesilk.com/'
+    if ($('#mycontent').attr('href') != 'https://github.com/') {
+        window.location.href = 'https://github.com/'
     }
 });
